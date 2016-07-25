@@ -1,3 +1,8 @@
+#############################################
+#NAME: Supakorn Wongsawang
+#PROGRAM: CarlendarFromMonthAndYear.py
+#DATE: 25 Jul 2016
+#############################################
 LeapYear=0
 d = 1; m = input(); y = input()
 DayOfMonth = ( [ [0,31,28,31,30,31,30,31,31,30,31,30,31] , [0,31,29,31,30,31,30,31,31,30,31,30,31] ] )
